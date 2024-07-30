@@ -4,3 +4,6 @@ ethereum/client-go:latest
 gcr.io/prysmaticlabs/prysm/beacon-chain:v4.1.1
 ethereum/client-go:latest
 gcr.io/prysmaticlabs/prysm/validator:v4.1.1
+alpine:latest
+gcr.io/prysmaticlabs/prysm/beacon-chain:latest
+gcr.io/prysmaticlabs/prysm/validator:latest
